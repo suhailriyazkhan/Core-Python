@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Object-Oriented-Programming-in-Python/.idea/Object-Oriented-Programming-in-Python.iml" filepath="$PROJECT_DIR$/../Object-Oriented-Programming-in-Python/.idea/Object-Oriented-Programming-in-Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Problem-Solving-in-Python.iml" filepath="$PROJECT_DIR$/.idea/Problem-Solving-in-Python.iml" />
     </modules>
   </component>
