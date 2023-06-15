@@ -1,6 +1,7 @@
 #1. using slicing
 
 inp="suhail"
+print(len(inp))
 print(inp[::-1])
 
 #2. reverse using logic
@@ -20,4 +21,19 @@ z=input("Enter string")
 print(''.join(reversed(z)))
 
 #reversed return an iterator over the given sequence
+
+
+
+# str = "my name is suhail khan"
+#
+# #print([str[::-1]])
+#
+# splited = str.split()
+# print(splited)
+# l=[]
+# l.extend(reversed(splited))
+# print(l)
+# print(" ".join(l))
+
+
 
